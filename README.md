@@ -1,4 +1,4 @@
-<h1 align="center">Blog preview card</h1>
+<h1 align="center">Social links profile</h1>
 <br>
 
 ### 🚨 Sobre o Projeto
